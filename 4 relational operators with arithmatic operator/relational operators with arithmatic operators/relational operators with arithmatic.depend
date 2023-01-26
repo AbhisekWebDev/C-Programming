@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659272614 source:d:\relational operators with arithmatic\main.c
+	<stdio.h>
+	<stdlib.h>
+
