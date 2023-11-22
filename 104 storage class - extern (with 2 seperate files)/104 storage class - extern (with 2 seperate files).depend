@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1700551916 source:d:\xcomp. course\1 let us c - jenny\104 storage class - extern (with 2 seperate files)\main.c
+	<stdio.h>
+	"support.c"
+
+1700551916 d:\xcomp. course\1 let us c - jenny\104 storage class - extern (with 2 seperate files)\support.c
+	<stdio.h>
+
+1700552148 source:d:\xcomp. course\1 let us c - jenny\104 storage class - extern (with 2 seperate files)\support.c
+	<stdio.h>
+	"support.h"
+
+1700552077 d:\xcomp. course\1 let us c - jenny\104 storage class - extern (with 2 seperate files)\support.h
+
